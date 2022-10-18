@@ -1,0 +1,16 @@
+{
+  "name": "chat-support",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tailwind": "npx tailwindcss -i ./src/style.css -o ./dist/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.7.1",
+    "tailwindcss": "^3.1.8"
+  }
+}
